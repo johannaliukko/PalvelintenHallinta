@@ -1,7 +1,7 @@
 # h1 Hello Salt
 
-Koneena Lenovo Legion Y530-15ICH, Intel Core i5-8300H CPU, 8GM RAM, Windows 11 Home Insider Preview
-Oracle VM VirtualBox 7.0.
+Koneena Lenovo Legion Y530-15ICH, Intel Core i5-8300H CPU, 8GM RAM, Windows 11 Home Insider Preview<br>
+Oracle VM VirtualBox 7.0.<br>
 Ubuntu: 22.04.1 LTS, codename: jammy
 
 ## Tehtävänanto
