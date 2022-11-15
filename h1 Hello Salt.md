@@ -6,7 +6,7 @@ x) Lue ja tiivistä
 
 <li>    Karvinen 2020: Command Line Basics Revisited</li>
 <li>    Karvinen 2018: Salt States – I Want My Computers Like This</li>
-<li>    Karvinen 2006: Raportin kirjoittaminen</li>
+<li>    Karvinen 2006: Raportin kirjoittaminen</li><br>
 
 a) Tee Saltilla tiedosto yksittäisellä komentorivillä (state.single)
 
