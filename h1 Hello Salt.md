@@ -20,6 +20,7 @@ d) Kerää tietoa koneesta saltin avulla (grains.items)
 
 e) Kokeile jotain toista tilaa kuin file.managed. Tärkeitä ovat pkg.installed, file.managed, service.running, file.symlink, user.present, group.present. Ohjeita saa esim "sudo salt-call --local sys.state_doc pkg.installed|less"
 
-## x) Karvinen 2020: Command Line Basics Revisited
-
+<p>
+<li> x) Karvinen 2020: Command Line Basics Revisited</li>
 on käsitelty Linux komentoja, jotka ovat tärkeitä muistaa
+</p>
