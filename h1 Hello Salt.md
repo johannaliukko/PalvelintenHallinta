@@ -20,7 +20,13 @@ d) Kerää tietoa koneesta saltin avulla (grains.items)
 
 e) Kokeile jotain toista tilaa kuin file.managed. Tärkeitä ovat pkg.installed, file.managed, service.running, file.symlink, user.present, group.present. Ohjeita saa esim "sudo salt-call --local sys.state_doc pkg.installed|less"
 
-<p>
-<li> x) Karvinen 2020: Command Line Basics Revisited</li>
-on käsitelty Linux komentoja, jotka ovat tärkeitä muistaa
-</p>
+## x) Karvinen 2020: Command Line Basics Revisited
+
+on käsitelty erilaisia Linux komentoja. Mainittakoon, että dollarinmerkki $ on normaali komentokehoite ja se tulee automaattisesti. Jos käyttää hash-merkkiä # on se kommenttirivi ja se ohitetaan.
+
+<b>Muistettavia tärkeitä komentoja</b>
+
+pwd - tulostaa työhakemiston näytölle
+ls - listaa työhakemiston sisällä olevat tiedostot
+cd hakemistonimi/ - siirryt tähän hakemiston
+cd ..
