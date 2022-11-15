@@ -34,7 +34,7 @@ State ei jostain syystä mennyt läpi, joten joudun sitä myöhemmin tarkistamaa
 ## d) Kerää tietoa koneesta saltin avulla (grains.items)
 
 sudo salt ‘\*’ grains.items komento antaa paljon tietoa. Kuvassa pieni pätkä.
-<img src="satl19.PNG">
+<img src="salt19.PNG">
 
 ## Kokeile jotain toista tilaa kuin file.managed. Tärkeitä ovat pkg.installed, file.managed, service.running, file.symlink, user.present, group.present. Ohjeita saa esim "sudo salt-call --local sys.state_doc pkg.installed|less"
 
