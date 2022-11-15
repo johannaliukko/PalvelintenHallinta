@@ -4,7 +4,7 @@ Koneena Lenovo Legion Y530-15ICH, Intel Core i5-8300H CPU, 8GM RAM, Windows 11 H
 Oracle VM VirtualBox 7.0.<br>
 Ubuntu: 22.04.1 LTS, codename: jammy<br>
 
-## x) Lue ja tiivistä (Tässä x-alakohdassa pelkkä luku / katselu / kuuntelu riittää, ei tarvitse tehdä testejä tietokoneella. Muutama ranskalainen viiva per artikkeli riittää)
+### x) Lue ja tiivistä (Tässä x-alakohdassa pelkkä luku / katselu / kuuntelu riittää, ei tarvitse tehdä testejä tietokoneella. Muutama ranskalainen viiva per artikkeli riittää)
 
 <li>    Karvinen 2020: Command Line Basics Revisited</li>
 <li>    Karvinen 2018: Salt States – I Want My Computers Like This</li>
