@@ -70,7 +70,7 @@ Hyviin tapoihin kuuluu, että viittaukset laitetaan näkyville ja merkitään oi
 Teksti, joka on muiden henkilöiden tekemää ja kopioit ilmoittamatta lähdettä on plagiointia ja loukkaa tekijänoikeuksia.
 
 
-### Ennen tehtäviä aloitus Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux -ohjeiden mukaan
+### Ennen tehtävien aloitusta Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux -ohjeiden mukaan
 
 ## Salt Masterin asennus
 
@@ -114,6 +114,6 @@ Tätä dokumenttia saa kopioida ja muokata GNU General Public License v3.0 mukai
 Pohjana Tero Karvinen 2022: "Palvelinten hallinta" kurssi
 Palvelintenhallinta, terokarvinen.com: https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/?from=MoodleNews#h1-hello-salt
 
-Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux https://terokarvinen.com/2018/salt-quickstart-salt-stack-master-and-slave-on-ubuntu-linux/
+Karvinen 2018: Salt Quickstart - Salt Stack Master and Slave on Ubuntu Linux https://terokarvinen.com/2018/salt-quickstart-salt-stack-master-and-slave-on-ubuntu-linux/
 
 Salt States – I Want My Computers Like This, terokarvinen.com: https://terokarvinen.com/2018/salt-states-i-want-my-computers-like-this/
