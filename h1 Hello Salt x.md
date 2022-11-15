@@ -4,7 +4,7 @@ Koneena Lenovo Legion Y530-15ICH, Intel Core i5-8300H CPU, 8GM RAM, Windows 11 H
 Oracle VM VirtualBox 7.0.
 Ubuntu: 22.04.1 LTS, codename: jammy
 
-## Tehtävänanto
+# Tehtävänanto
 
 x) Lue ja tiivistä (Tässä x-alakohdassa pelkkä luku / katselu / kuuntelu riittää, ei tarvitse tehdä testejä tietokoneella. Muutama ranskalainen viiva per artikkeli riittää)
 
@@ -48,7 +48,7 @@ man ls listaa yleisimmät komennot ja niiden lyhennykset, paina h ja saat lisäa
 ls --help listaa tiedostojen nimet, tarkoitukset ja lyhenteet
 wget -h antaa apuja verkkoasetuksiin
 
-### Nimmelitietoa
+### Nimppelitietoa
 
 Caps lockin yläpuolella oleva tabulaattori on erinomainen apuväline komentojen kirjoittamiseen. Ne näyttää seuraavat käytettävissä olevat vaihtoehdot ja näin vältytään usein tulevista näppäily- eli kirjoitusvirheistä. Esimerkiksi ls /etc/re[tab][tab] antaisi tulokseksi reportbug.conf resolvconf/ resolv.conf
 Se voi antaa ehdotukseksi myös tiedoston nimen päätteen.
@@ -60,11 +60,11 @@ sudo apt-get update (kysyy myös salasanan) tekee tarkistuksen jos on uusia päi
 sudo apt-get upgrade päivittää käyttöjärjestelmän
 sudo apt install (ohjelma) lataa ja asentaa ohjelman
 
-# Salt States – I Want My Computers Like This
+## Salt States – I Want My Computers Like This
 
 Voit Saltin avulla hallita useampia koneina. Sillä on kaksi pääkomponeittia, jolla käsittelee infrastuktuurin solmuja (master ja minions) ja hallintajärjestelmä pitää kaikki infrastuktuurin solmut määritellyssä tilassa. Tosin sanoen master eli pääpalvelin hallitsee alempia koneita toimimaan halutun mukaisesti. Ainoastaan master pitää olla julkinen palvelin ja osoite.
 
-# Raportin kirjoittaminen
+## Raportin kirjoittaminen
 
 Mietitäänpä hetki raportin kirjoittamista. Se voi tuntua työläältä, kun sitä tehdään eri teknillisissä vaiheessa samalla. Kun siinä kertoo täsmällisestii ja tapahtumat vaiheittain on helpompi myöhemmin löytää virhe(eet) ja korjata. Mitä yksityiskohtaisemmin raportin teet, sen parempi. Silloin toistettavuus säilyy.
 Väliotsikoita on hyvä käyttää. Se selkeyttää asioita ja on helpommin luettavissa.
